@@ -29,7 +29,7 @@ let All_song = [
    {
      name: "first song",
      path: "music/song1.mp3",
-     img: "img/img1.jpg",
+     img: "./images/img1.jpg",
      singer: "1"
    },
    {
